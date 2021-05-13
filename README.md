@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Well Come 👋</h1>
+<h1 align="center">Wellcome 👋</h1>
 <h3 align="center">Web development Team!</h3>
 <h4 align="center">We are ready for all kind of frameworks!</h4>
 <h4 align="center">Also I'll develop mobile app for your websites, if you want!</h4>
