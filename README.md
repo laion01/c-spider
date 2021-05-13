@@ -3,6 +3,7 @@
 <h1 align="center">Well Come 👋</h1>
 <h3 align="center">Web development Team!</h3>
 <h4 align="center">We are ready for all kind of frameworks!</h4>
+<h4 align="center">Also I'll develop mobile app for your websites, if you want!</h4>
 
 <div align="center">
 	<img src="https://github.com/c-spider/c-spider/raw/main/tenor.gif" alt="I'm ready!">
