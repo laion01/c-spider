@@ -5,19 +5,19 @@
 ## 💪 Overview
 
 <p>
-  <a href="https://github.com/bbshark99/bbshark99" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=bbshark99&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  <a href="https://github.com/c-spider/c-spider" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=c-spider&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
-  <a href="https://github.com/bbshark99/bbshark99" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bbshark99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="C-Spider's GitHub Stats" height="180px"/>
+  <a href="https://github.com/c-spider/c-spider" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=c-spider&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="C-Spider's GitHub Stats" height="180px"/>
   </a>
   
  </p>
  
  <p>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=bbshark99&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=c-spider&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  </p>
  
  ## 📖 Languages
@@ -44,5 +44,5 @@
   
 <br />
 
-![](https://komarev.com/ghpvc/?username=bbshark99&color=dc143c)
+![](https://komarev.com/ghpvc/?username=c-spider&color=dc143c)
 
