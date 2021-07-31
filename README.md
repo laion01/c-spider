@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://github.com/bbshark99/bbshark99" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bbshark99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bbshark99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="C-Spider's GitHub Stats" height="180px"/>
   </a>
   
  </p>
