@@ -20,6 +20,8 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=c-spider&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  </p>
  
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bbshark99&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true
+ 
  ## 📖 Languages
  
 <div align="left">
